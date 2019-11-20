@@ -9,9 +9,10 @@
   color: #0a2e8a;
   border-radius: 4px;
   padding: 30px 20px;
-  min-width: 80px;
+  min-width: 100px;
   min-height: 50px;
   transition: 0.2s ease-in-out;
+  white-space: nowrap;
 }
 
 .card:hover {
@@ -34,6 +35,7 @@
   font-size: 1.2rem;
   font-weight: 600;
   color: #0a2e8a;
+  padding-right: 0.1rem;
 }
 
 .job a {
@@ -54,5 +56,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    min-width: 215px;
   }
 }
