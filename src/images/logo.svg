@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="40px" viewBox="0 0 35 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 2.500000)" stroke="#8effe3" stroke-width="3">
+            <polygon id="Polygon" points="17.5 0 32.6554446 8.75 32.6554446 26.25 17.5 35 2.34455543 26.25 2.34455543 8.75"></polygon>
+            <polyline id="Path" transform="translate(17.500000, 18.593750) rotate(180.000000) translate(-17.500000, -18.593750) " points="8.75 26.25 17.5 10.9375 17.5 10.9375 26.25 26.25"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+}
+
+.card {
+  background: linear-gradient(to right, #f2994a, #f2c94c);
+  color: #0a2e8a;
+  border-radius: 4px;
+  padding: 30px;
+  min-width: 80px;
+  min-height: 50px;
+  transition: 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.job {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #0a2e8a;
+}
+
+.job a {
+  color: #0a2e8a;
+  text-decoration: none;
+}
+
+.desc {
+  font-size: 1rem;
+}

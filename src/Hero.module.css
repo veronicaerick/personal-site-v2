@@ -1,0 +1,27 @@
+.hero {
+  background-color: #1d58ec;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  min-height: 230px;
+}
+
+.largeText {
+  font-size: 4rem;
+  font-family: 'Lato';
+  color: #7fffd4;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+.smallText {
+  color: #40bcd8;
+  font-size: 2.2rem;
+  font-family: 'Raleway', sans-serif;
+}
+
+.smallestText {
+  color: #c1f9e6;
+  width: 69%;
+}

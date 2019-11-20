@@ -1,0 +1,39 @@
+.about {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.text {
+  width: 70%;
+  max-width: 485px;
+  color: #c1f9e6;
+}
+
+.mediumText {
+  font-size: 1rem;
+  color: #c1f9e6;
+}
+
+.skill {
+  color: white;
+}
+
+.skills {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(85px, 90px));
+  margin-top: 0.5rem;
+  grid-gap: 1rem;
+  overflow: hidden;
+}
+
+.chip {
+  background: linear-gradient(to right, #f2994a, #f2c94c);
+  padding: 5px;
+  border-radius: 4px;
+  color: #0a2e8a;
+}
+
+.section {
+  padding: 1rem 0;
+}

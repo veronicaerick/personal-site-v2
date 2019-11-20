@@ -1,0 +1,19 @@
+.divider {
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  white-space: nowrap;
+  font-size: 32px;
+  margin: 10px 0px 20px;
+}
+
+.section {
+  color: #f1c54d;
+  padding: 0 1rem;
+}
+
+.num {
+  color: #6cfeda;
+}
