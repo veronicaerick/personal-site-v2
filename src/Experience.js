@@ -13,7 +13,7 @@ function Experience() {
     },
     {
       title: 'Sprinklr',
-      desc: 'Front End Designer',
+      desc: 'Front End',
       dates: '2016-2017',
       emoji: '💫',
       link: 'https://www.sprinklr.com',
@@ -35,6 +35,7 @@ function Experience() {
               </div>
               <br />
               <div className={css.desc}>{job.desc}</div>
+              <span className={css.dates}>{job.dates}</span>
             </div>
           ))}
         </div>

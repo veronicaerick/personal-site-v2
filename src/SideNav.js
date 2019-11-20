@@ -10,7 +10,7 @@ function SideNav() {
       <ul className={css.socialLinks}>
         <li>
           <a
-            href="https://www.github.com"
+            href="https://www.github.com/veronicaerick"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ function SideNav() {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/veronicaerick"
+            href="https://www.linkedin.com/in/veronicaerick/"
             target="_blank"
             rel="noopener noreferrer"
           >
