@@ -13,6 +13,7 @@
   min-height: 50px;
   transition: 0.2s ease-in-out;
   white-space: nowrap;
+  border: 1px solid #ffc592;
 }
 
 .card:hover {

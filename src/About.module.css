@@ -27,11 +27,12 @@
 }
 
 .chip {
-  background: linear-gradient(to right, #f2994a, #f2c94c);
+  background: linear-gradient(to left, #f2994a, #f2c94c);
   padding: 5px;
   border-radius: 4px;
   color: #0a2e8a;
   width: auto;
+  border: 1px solid #ffc592;
 }
 
 .section {
