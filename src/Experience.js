@@ -34,8 +34,10 @@ function Experience() {
                 </a>
               </div>
               <br />
-              <div className={css.desc}>{job.desc}</div>
-              <span className={css.dates}>{job.dates}</span>
+              <div className={css.cardMeta}>
+                <span className={css.desc}>{job.desc}</span>
+                <span className={css.dates}>{job.dates}</span>
+              </div>
             </div>
           ))}
         </div>

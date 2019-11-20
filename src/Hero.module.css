@@ -2,12 +2,12 @@
   background-color: #1d58ec;
   height: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-direction: column;
   min-height: 230px;
 }
 
-.largeText {
+.header {
   font-size: 4rem;
   font-family: 'Lato';
   color: #7fffd4;
@@ -15,13 +15,28 @@
   font-weight: 700;
 }
 
-.smallText {
+.subHeader {
   color: #40bcd8;
   font-size: 2.2rem;
   font-family: 'Raleway', sans-serif;
 }
 
-.smallestText {
+.supportText {
+  width: 70%;
   color: #c1f9e6;
-  width: 69%;
+}
+
+@media only screen and (max-width: 900px) {
+  .header {
+    font-size: 3rem;
+  }
+
+  .subHeader {
+    font-size: 1.85rem;
+  }
+
+  .supportText {
+    width: 100%;
+    display: none;
+  }
 }
