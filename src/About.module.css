@@ -7,7 +7,7 @@
 
 .textSections {
   max-width: 715px;
-
+  padding-right: 1.5rem;
   color: #c1f9e6;
 }
 
@@ -49,6 +49,7 @@
 
   .textSections {
     width: 100%;
+    padding-right: 0px;
   }
 
   .skills {
